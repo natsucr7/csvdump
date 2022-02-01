@@ -1,0 +1,5 @@
+shape,x,x1,x2,y,y1,y2,cx,cy,r,rx,ry,width,height,fill,stroke
+rect,0,,,400,,,,,,,,500,300,red,
+ellipse,,,,,,,460,730,,50,30,,,green,
+line,,600,800,,300,400,,,,,,,,,black
+circle,,,,,,,240,750,100,,,,,pink,
